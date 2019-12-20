@@ -1,6 +1,6 @@
 {
-  "name": "passport-github",
-  "version": "1.1.0",
+  "name": "passport-github-ibm",
+  "version": "1.0.0",
   "description": "GitHub authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -11,16 +11,16 @@
     "identity"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Jason Sun",
+    "email": "sunxiaoyu.space@outlook.com",
+    "url": "http://www.ibm.com/"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/jaredhanson/passport-github.git"
+    "url": "https://github.com/SunXiaoYu-eLearining/passport-github-ibm.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-github/issues"
+    "url": "https://github.com/SunXiaoYu-eLearining/passport-github-ibm/issues"
   },
   "license": "MIT",
   "licenses": [
